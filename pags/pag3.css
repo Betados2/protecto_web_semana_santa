@@ -1,0 +1,11 @@
+#imageCarousel {
+    max-width: 800px; /* Ancho máximo del Carousel */
+    margin: auto; /* Centra el Carousel horizontalmente */
+}
+
+.carousel-item img {
+    max-width: 100%; /* Ajusta el tamaño máximo de las imágenes al ancho del Carousel */
+    height: auto; /* Mantiene la proporción de aspecto de las imágenes */
+    border: 2px solid #ccc; /* Añade un borde de 2px sólido de color gris claro */
+    border-radius: 5px; /* Agrega esquinas redondeadas */
+}
